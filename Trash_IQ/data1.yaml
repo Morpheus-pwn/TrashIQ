@@ -1,0 +1,14 @@
+train: C:/Users/pawan/FINAL YR PROJECT/waste_img/G1/train/images
+val: C:/Users/pawan/FINAL YR PROJECT/waste_img/G1/valid/images
+test: C:/Users/pawan/FINAL YR PROJECT/waste_img/G1/test/images
+
+nc: 8
+names: 
+  0: BIODEGRADABLE
+  1: CARDBOARD
+  2: GLASS
+  3: METAL
+  4: PAPER
+  5: PLASTIC
+  6: E-WASTE
+  7: OTHERS
